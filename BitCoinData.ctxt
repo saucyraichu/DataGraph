@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNewDate()
+comment1.params=
+comment1.target=Values[]\ getValues()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=@Override\r\n\ \ \ \ public\ String\ toString(){\r\n\ \ \ \ \ \ \ \ return\ data.toString();\r\n}
+comment3.params=
+comment3.target=BitCoinData()
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fact\r\n
+numComments=4
